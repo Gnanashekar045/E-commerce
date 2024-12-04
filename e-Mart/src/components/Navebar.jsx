@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from "../assets/Logo.png" 
-//Commerce 
+//Commerce site
 
 const Navebar = () => {
   return (
